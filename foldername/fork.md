@@ -7,4 +7,4 @@ Fork (forowanie) to proces tworzenia kopii repozytorium z jednego konta na inne.
 1. Co to jest forka?
 	•	Fork pozwala stworzyć dokładną kopię repozytorium na Twoim koncie.
 	•	Jest to użyteczne, gdy chcesz wprowadzać zmiany w repozytorium, ale nie chcesz od razu wpływać na oryginał.
-	•	Fork jest często stosowany w projektach open-source, gdzie deweloperzy mogą pracować niezależnie, a potem proponować zmiany poprzez PR.
+	•	Fork jest często stosowany w projektach open-source, gdzie deweloperzy mogą pracować niezależnie, a potem proponować zmiany
